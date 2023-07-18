@@ -1,9 +1,9 @@
 #$ TITLE: ArazonaFPV Mode settings
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
-#$ STATUS: Personal
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
+#$ AUTHOR: ArazonaFPV
 #$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
 
 # aux switch settings
@@ -62,7 +62,7 @@ adjrange 27 0 0 900 900 0 0 0 0
 adjrange 28 0 0 900 900 0 0 0 0
 adjrange 29 0 0 900 900 0 0 0 0
 
-#$ Arazona Modes settings
+# Arazona Modes settings
 
 # beacon
 beacon RX_LOST

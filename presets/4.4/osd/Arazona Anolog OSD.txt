@@ -1,7 +1,7 @@
 #$ TITLE: Arazona Anolog OSD
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
-#$ STATUS: Personal
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: ArazonaFPV, reset, OSD
 #$ AUTHOR: ArazonaFPV
 #$ DESCRIPTION: Resets the OSD values back to Betaflight 4.4 defaults
@@ -123,7 +123,7 @@ set osd_canvas_width = 53
 set osd_canvas_height = 20
 set osd_craftname_msgs = OFF
 
-#$ NEW OSD SETTINGS
+# NEW OSD SETTINGS
 
 set report_cell_voltage = ON
 set osd_warn_bitmask = 57343
