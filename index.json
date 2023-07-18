@@ -178,7 +178,6 @@
       "mouseFPV",
       "MrAlucardDante",
       "NemesisXB",
-      "QuadMcFly (Ryan Harrell)",
       "Sjoer van der Ploeg",
       "Stingers Swarm",
       "Sugar K",
@@ -422,7 +421,6 @@
       "smart audio",
       "smartaudio",
       "smoothing",
-      "snappy",
       "Solid250",
       "some",
       "Spec",
@@ -3721,8 +3719,8 @@
     },
     {
       "fullPath": "presets/4.4/rates/ArazonaFPV Rates.txt",
-      "hash": "2b0564de2972ab32091f6368bfbaf62f1836fbf39528d3116767d76eba12a57b",
-      "title": "QuadMcFly Rates - Snappy Freestyle",
+      "hash": "bc36f1e110a30d44f5226218a2f8b117681a47f5ba03ba2db062510b2fed9b83",
+      "title": "ArazonaFPV Rates",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -3732,11 +3730,10 @@
       "keywords": [
         "rates",
         "freestyle",
-        "snappy",
         "juicy",
         "sbang"
       ],
-      "author": "QuadMcFly (Ryan Harrell)",
+      "author": "ArazonaFPV",
       "priority": 10000
     },
     {

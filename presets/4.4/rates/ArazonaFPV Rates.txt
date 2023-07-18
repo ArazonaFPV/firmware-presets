@@ -1,18 +1,17 @@
-#$ TITLE: QuadMcFly Rates - Snappy Freestyle
+#$ TITLE: ArazonaFPV Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: rates, freestyle, snappy, juicy, sbang
-#$ AUTHOR: QuadMcFly (Ryan Harrell)
+#$ KEYWORDS: rates, freestyle, juicy, sbang
+#$ AUTHOR: ArazonaFPV
 
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 # -- End Defaults --
 # -- Begin ArazonaFPV Rates --
 
-set min_check = 1015
-set max_check = 1990
+
 
 rateprofile 0
 
@@ -27,3 +26,5 @@ set yaw_expo = 50
 set roll_srate = 83
 set pitch_srate = 83
 set yaw_srate = 65
+set min_check = 1015
+set max_check = 1990
