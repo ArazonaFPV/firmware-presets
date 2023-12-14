@@ -72,6 +72,7 @@ beacon RX_SET
 feature -TELEMETRY
 feature -AIRMODE
 feature ESC_SENSOR
+set pid_at_min_throttle = OFF
 
 
 # aux
