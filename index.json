@@ -3678,6 +3678,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/Arazona Digital OSD.txt",
+      "hash": "ef17f0f3fdf82994c60158992dc256ba60fc0370db17c8634455e71efc17b43f",
+      "title": "Arazona Anolog OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "ArazonaFPV",
+        "reset",
+        "OSD"
+      ],
+      "author": "ArazonaFPV",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/defaults.txt",
       "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
@@ -3719,7 +3736,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/ArazonaFPV Rates.txt",
-      "hash": "bc36f1e110a30d44f5226218a2f8b117681a47f5ba03ba2db062510b2fed9b83",
+      "hash": "e465bf0bd549061073b9436037549834b8247a7a1eb0f95261b8d8d460f36627",
       "title": "ArazonaFPV Rates",
       "firmware_version": [
         "4.3",
